@@ -1,0 +1,1 @@
+# Kursk_text_model
